@@ -25,7 +25,11 @@
         <module name="mongodb-blog" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
+=======
+    <bytecodeTargetLevel target="1.8">
+>>>>>>> 2a987495e564dbcae4836480b39ff601af569233
       <module name="mongodb-blog" target="1.5" />
     </bytecodeTargetLevel>
   </component>
